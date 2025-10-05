@@ -26,7 +26,7 @@ const Projects = () => {
       image: "/assets/project2.jpg",
       technologies: ["React-vite", "Node.js", "Javascript", "perplexity API", "Socket.io", "MongoDB"],
       github: "https://github.com/Bhuvanesh9876/CodeGenerator-website.git",
-      live: "https://code-generator-website-sable.vercel.app/login",
+      live: "https://tinyurl.com/aicode-generator-debugger",
       category: "AI Development Tool"
     },
     
