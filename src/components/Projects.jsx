@@ -20,13 +20,13 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "CodeGenius - AI Code Generator & Debugger",
+      title: "CodeGenius AI Code Generator & Debugger",
       description: "AI-powered code generation and intelligent debugging platform",
       fullDescription: "An advanced AI-powered development tool that generates code snippets, debugs errors, and provides intelligent suggestions. Features include multi-language support, real-time error detection, code optimization suggestions, and collaborative debugging sessions.",
       image: "/assets/project2.jpg",
-      technologies: ["React", "Node.js", "Python", "OpenAI API", "Socket.io", "MongoDB", "Docker"],
-      github: "https://github.com/yourusername/codegenius",
-      live: "https://codegenius-app.vercel.app",
+      technologies: ["React-vite", "Node.js", "Javascript", "perplexity API", "Socket.io", "MongoDB"],
+      github: "https://github.com/Bhuvanesh9876/CodeGenerator-website.git",
+      live: "https://code-generator-website-sable.vercel.app/login",
       category: "AI Development Tool"
     },
     
