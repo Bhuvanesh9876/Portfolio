@@ -41,6 +41,17 @@ const Projects = () => {
       live: "https://example.com",
       category: "Mobile"
     },
+    {
+      id: 4,
+      title: "AI BASED SMART RESUME SCREENING SYSTEM",
+      description: "AI-powered resume screening system for automated candidate shortlisting",
+      fullDescription: "An AI-based system that analyzes resumes to rank and shortlist candidates using NLP, skill matching, and scoring algorithms. Built with Python, Flask, and machine learning models.",
+      image: "/assets/project5.jpg",
+      technologies: ["Python", "Flask", "NLP", "scikit-learn"],
+      github: "https://github.com/Bhuvanesh9876/cm_18.git",
+      live: "https://example.com",
+      category: "AI"
+    },
     
   ]
 
