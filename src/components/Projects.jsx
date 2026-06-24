@@ -14,7 +14,7 @@ const Projects = () => {
       fullDescription: "A comprehensive e-commerce platform featuring user authentication, product management, shopping cart, payment integration, and admin dashboard. Built with modern web technologies and best practices.",
       image: "/assets/project1.jpg",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe"],
-      github: "https://github.com",
+      github: "https://github.com/Bhuvanesh9876/E-Commerce_clone.git",
       live: "https://example.com",
       category: "Full Stack"
     },
@@ -37,7 +37,7 @@ const Projects = () => {
       fullDescription: "A comprehensive fitness tracking mobile app with workout plans, progress tracking, social features, and integration with wearable devices. Built with React Native for cross-platform compatibility.",
       image: "/assets/project4.jpg",
       technologies: ["React Native", "Firebase", "Redux", "Chart.js"],
-      github: "https://github.com",
+      github: "https://github.com/Bhuvanesh9876/fitness_tracking_app.git",
       live: "https://example.com",
       category: "Mobile"
     },
